@@ -1,3 +1,4 @@
+//Jhon Clive P. Buenafe, IT2A, Midterm pt2
 #include <iostream>
 #include <vector>
 #include <string>
